@@ -1,7 +1,5 @@
 using TMPro;
 using UnityEngine;
-using UnityEngine.Assemblies;
-using UnityEngine.SceneManagement;
 
 public class BallController : MonoBehaviour
 {
